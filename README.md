@@ -5,4 +5,4 @@ a Follow Enemy AI script that chases the player, alongside a
 modular health system that manages damage and destruction for
 all characters.
 
-Watch the game demo here:(Screen.Recording.2026-05-27.at.6.10.32.PM.mp4)
+Watch the game demo here:  Screen.Recording.2026-05-27.at.6.10.32.PM.mp4
